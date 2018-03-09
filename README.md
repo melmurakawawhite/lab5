@@ -1,2 +1,2 @@
-# lab5
-Lab 5 - Class Assignment
+# JSPlatformer
+JS Platformer for DIG 3480C
